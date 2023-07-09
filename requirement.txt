@@ -1,0 +1,3 @@
+langchain
+yt_dlp
+whisper
